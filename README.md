@@ -1,0 +1,2 @@
+# MyFirstTries
+python,wechat
